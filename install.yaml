@@ -1,0 +1,16 @@
+# Full Skill Pack Configuration
+channels:
+  feishu:
+    tools:
+      doc: true
+      drive: true
+      perm: true
+      wiki: true
+
+tools:
+  profile: coding
+
+plugins:
+  entries:
+    feishu:
+      enabled: true
