@@ -1,0 +1,13 @@
+{
+  "name": "OpenClaw Skill Pack Collection (All-in-One)",
+  "price": 69,
+  "currency": "USD",
+  "tier": "Tier 2",
+  "type": "bundle",
+  "description": "All 5 premium skills in one bundle",
+  "target_audience": [
+    "OpenClaw users",
+    "Feishu enterprise customers"
+  ],
+  "savings": "35% vs standalone"
+}
